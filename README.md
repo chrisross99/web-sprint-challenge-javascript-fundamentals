@@ -30,7 +30,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 2. Explain the difference between a callback and a higher order function.
 
 3. What is closure?
-
+Closure is
 4. Describe the four rules of the 'this' keyword.
 
 5. Why do we need super() in an extended class?
